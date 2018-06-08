@@ -1,0 +1,17 @@
+.jumbotron{
+	padding: 40px;
+	color: blue;
+}
+.flex{
+	display: flex;
+
+}
+section{
+	margin-left: 20px;
+	padding: 10px;
+	text-align: justify;
+}
+div img{
+	height: 15em;
+	padding: 15px;
+}

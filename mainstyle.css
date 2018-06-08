@@ -1,0 +1,32 @@
+body{
+	padding: 70px;
+}
+.navbar-header a.navbar-brand{
+	color: white;
+}
+.panel-heading .panel-title{
+	background-color: blue !important;
+}
+
+ .panel-heading a#unio:hover{
+	text-decoration: none !important;
+}
+ .panel-heading a#unio:link{
+	text-decoration: none;
+}
+/*h4:nth(odd){
+	background-color: #ccc;
+	border: 3px inset black;
+	border-radius: 5px;
+	text-align: center;
+	padding: 7px;
+	font-family: Helvetica;
+
+}*/
+.panel-title{
+	font-size: 2em;
+	color: blue;
+}
+.panel-body{
+	font-size: 1.5em;
+}

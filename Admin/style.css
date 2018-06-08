@@ -1,0 +1,39 @@
+h1{
+	width: 100%;
+	color: blue;
+	text-align: center;
+}
+.menu{
+	width: 30%;
+	float: left;
+}
+.menuOl{
+	list-style: none;
+}
+.menuOl li a{
+	color: white;
+	padding-top: 50px;
+	font-family: sans-serif;
+	font-size: 1em;
+	text-decoration: none;
+	text-align: center;
+	font-style: normal;
+
+}
+
+.menuLi{
+	width: 200px;
+	height: 75px;
+	background-color: blue;
+	margin: 10px;
+	border-radius: 10px;
+}
+.formDiv{
+	width: 400px;
+	height: 500px;
+}
+
+.resultForm{
+	float: right;
+	width: 50%;
+}

@@ -1,0 +1,46 @@
+body{
+	padding: 70px;
+}
+.navbar-header a.navbar-brand{
+	color: white;
+}
+.navbar-header a.navbar-brand img{
+	margin-top: -30px;
+	padding: 15px;
+}
+
+.panel-heading{
+	background-color: blue;
+}
+.jumbotron h1{
+	color: blue;
+	font-family: Helvetica;
+}
+
+h4 a:hover{
+	text-decoration: none;
+}
+h4 a:link{
+	text-decoration: none;
+}
+/*h4:nth(odd){
+	background-color: #ccc;
+	border: 3px inset black;
+	border-radius: 5px;
+	text-align: center;
+	padding: 7px;
+	font-family: Helvetica;
+
+}*/
+.panel-title{
+	font-size: 2em;
+	
+}
+.panel-body{
+	font-size: 1.5em;
+
+}
+
+ .showAlert{
+ 	display: none;
+ }
